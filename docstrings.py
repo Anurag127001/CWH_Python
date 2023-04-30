@@ -3,3 +3,4 @@ def square(n):
     print(n**2)
 square(5)
 print(square.__doc__)
+# valid docstring has to be written just below the function 
