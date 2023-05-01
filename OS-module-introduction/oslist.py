@@ -1,7 +1,7 @@
 import os
 folders = os.listdir("data")
 
-print(folders,"\n")
+print(folders)
 
 for folder in folders:
     print(os.listdir(f"data/{folder}"))
