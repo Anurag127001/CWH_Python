@@ -40,4 +40,4 @@ else:
     last_ltr=decode2[-1]
     decode_word= last_ltr+decode2
     decode_word=decode_word[:-1]
-    print(f"Decoded answer is: {decode_word}")
+    print(f"Decoded answer is: {decode_word}") 
