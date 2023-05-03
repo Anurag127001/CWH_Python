@@ -32,4 +32,3 @@ for i in range(0, len(questions)):
     else:
         print("Wrong Answer! ")
         break
-    
